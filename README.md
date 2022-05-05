@@ -1,9 +1,10 @@
-#BetAr - arbitrage detection
+#BetAr
 BetAr is  simple python script for detecting and calculating arbitrage opportunitiess.
 Script expects data specified format in input.txt file which is in same directory as script.
 
 ## Dependecies:
-Numpy and FuzzyWuzzy
+- Numpy 
+- FuzzyWuzzy
 
 ### Devs:
 [gamisn](https://github.com/gamisn "gamisn")
